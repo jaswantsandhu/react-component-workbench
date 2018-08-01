@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jaswantsandhu/react-workbench.git"
+    "url": "git+ssh://git@github.com/jaswantsandhu/react-component-workbench.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaswantsandhu/react-workbench/issues"
+    "url": "https://github.com/jaswantsandhu/react-component-workbench/issues"
   },
-  "homepage": "https://github.com/jaswantsandhu/react-workbench#readme",
+  "homepage": "https://github.com/jaswantsandhu/react-component-workbench#readme",
   "peerDependencies": {
     "react": "^16.3.0",
     "react-dom": "^16.3.0"
